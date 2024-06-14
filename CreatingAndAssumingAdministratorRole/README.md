@@ -11,4 +11,4 @@ In this Hands-on Lab we are going to work through creating a brand-new IAM Role.
 -	Create & Deploy CloudFormation Template of IAM Role
 
 ### Architecture
-![alt text](https://github.com/TristanLinoD/AWS/blob/main/AWS-IAM/Architectures/CreatingandAssumingAdministratorAWSIAMRole.png)
+![alt text](https://github.com/TristanLinoD/AWS/blob/main/CreatingAndAssumingAdministratorRole/Architectures/CreatingandAssumingAdministratorAWSIAMRole.png)
