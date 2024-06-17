@@ -2,7 +2,7 @@
 
 ### Hands-on Lab
 
-During this hands-on lab you will explore how to create a multi-Region CloudTrail Trail with Log File Integrity and Validation enabled, as well as create an EventBridge Rule that can send a notification via Amazon SNS to alert you whenever there is a Root user console sign-in!.
+During this hands-on lab we will explore how to create a multi-Region CloudTrail Trail with Log File Integrity and Validation enabled, as well as create an EventBridge Rule that can send a notification via Amazon SNS to alert you whenever there is a Root user console sign-in!.
 
 ### Objectives
 
