@@ -11,4 +11,4 @@ During this hands-on lab project, we are going to work on configuring an Amazon 
 - Create SNS Topic and CloudWatch Alarm
 
 ### Architecture
-![alt text](https://github.com/TristanLinoD/AWS/blob/main/CloudTrailAndEventBridgeAlertConsoleSign-Ins/Architectures/StandingUpAnApacheWebServer.png)
+![alt text](https://github.com/TristanLinoD/AWS/blob/main/StandingUpApacheWebServerAndSendingLogs/Architectures/StandingUpAnApacheWebServer.png)
