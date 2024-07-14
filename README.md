@@ -1,2 +1,2 @@
 # AWS
-AWS Solutions Architect Projects and Labs 
+AWS Solutions Architect Projects
